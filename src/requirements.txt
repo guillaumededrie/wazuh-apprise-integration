@@ -4,9 +4,9 @@
 #
 #    pip-compile --generate-hashes --output-file=src/requirements.txt
 #
-apprise==1.10.0 \
-    --hash=sha256:b768f32d99e45ed5f4c3eef1f67903e803c97f97ba61a531a5d0a45d40df90a8 \
-    --hash=sha256:e685303d3568bb7a057d6ddeafd27ee12fff183ca36483ad4bacc0b9b4efa82c
+apprise==1.13.1 \
+    --hash=sha256:2ded6d00562dd2ae9eb6f1e6cc8d3fb66e06f7ede6efac0ad029031b633780f4 \
+    --hash=sha256:e7689dda71aaf739244d6c8690de13cb1361b8d0a79980fb48bb397455ca0bdd
     # via wazuh-apprise-integration (pyproject.toml)
 certifi==2026.2.25 \
     --hash=sha256:027692e4402ad994f1c42e52a4997a9763c646b73e4096e4d5d6db8af1d6f0fa \
